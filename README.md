@@ -4,4 +4,5 @@ This is a test
 
 This is a second test
 
-www.google.com
+[hello world](http://google.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
